@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:paddingTop="10000dp"
+            android:padding="20dp">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="@android:color/background_light">
+
+            </android.support.v7.widget.Toolbar>
+
+            <android.support.design.widget.TabLayout
+                android:id="@+id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2.1. What can I do with the Riot Services?"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="We grant you a limited, non-exclusive, non-transferable, revocable license to use and enjoy the Riot Services for your individual, non-commercial, entertainment purposes only and expressly conditioned upon your compliance with the terms of this Agreement. Unless otherwise expressly authorized by us in a signed writing, you may not sell, copy, exchange, loan, reverse engineer, decompile, derive source code from, translate, lease, grant a security interest in, transfer, publish, assign or otherwise distribute any of the Riot Services or any of Riot Games’ intellectual property, including any computer code associated therewith." />
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2.2. Can I do stuff with Riot’s intellectual property? (We reserve all the rights to our IP, but do allow for some personal, non-commercial uses like fan art.)"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="We (and our licensors) own and reserve all rights and title in and to the Riot Services, and all data and content included therein, including, user accounts, computer code, titles, objects, artifacts, characters, character names, chat logs, Game recordings and broadcasts, locations, location names, stories, dialog, catch phrases, artwork, graphics, structural or landscape designs, animations, sounds, musical compositions and recordings, Riot Points (defined below), Influence Points (defined below), Hextech Items (defined below), Virtual Goods (defined below), audio-visual effects, character likenesses, methods of operation and gameplay (collectively, “Game Content”). You can’t create any work of authorship based on the Game Content or Riot Services except as expressly permitted by us. For more info about what uses we currently permit, please read our Legal Jibber Jabber policy. You also agree that unless we grant you a license, in a signed written contract, you may never use any of our trademarks, service marks, trade names, logos, domain names, taglines, or trade dress. Any reproduction, redistribution, or modification of the Riot Services, or use of the Riot Services not in accordance with this Agreement, is expressly prohibited and may result in severe civil and/or criminal penalties." />
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2.3. Is there a limit on Riot’s potential liability under this Agreement? (Yes.)"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="UNDER NO CIRCUMSTANCES, AND UNDER NO LEGAL THEORY, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, SHALL RIOT GAMES BE LIABLE TO YOU OR ANY OTHER PERSON FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES OF ANY KIND (INCLUDING, DAMAGES FOR LOSS OF BUSINESS, LOSS OF DATA, LOSS OF GOOD WILL, OR LOST PROFITS), OR ANY DAMAGES FOR GROSS NEGLIGENCE OF ANY KIND (INCLUDING, DAMAGES FOR WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES) ARISING FROM YOUR USE OR MISUSE OF THE RIOT SERVICES, EVEN IF RIOT GAMES KNEW OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL RIOT GAMES BE LIABLE FOR ANY DAMAGES IN EXCESS OF ANY AMOUNT YOU HAVE PAID TO RIOT GAMES FOR GAME-RELATED TRANSACTIONS, IF ANY, DURING THE SIX (6) MONTHS IMMEDIATELY PRIOR TO THE TIME YOUR CAUSE OF ACTION AROSE." />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
+
+

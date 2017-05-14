@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/background_light"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="match_parent"
+                android:layout_height="97dp"
+                android:src="@drawable/capture" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/Sfirstname"
+                    android:layout_width="156dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:ems="10"
+                    android:hint="First Name"
+                    android:inputType="textPersonName"
+                    android:paddingTop="20dp" />
+
+                <EditText
+                    android:id="@+id/Slastname"
+                    android:layout_width="170dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:ems="10"
+                    android:hint="Last Name"
+                    android:inputType="textPersonName"
+                    android:paddingTop="20dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <EditText
+                    android:id="@+id/Semail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="SJSU Student Email"
+                    android:inputType="textEmailAddress"
+                    android:paddingTop="20dp" />
+
+                <EditText
+                    android:id="@+id/Sid"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="Student ID"
+                    android:inputType="phone"
+                    android:paddingTop="20dp" />
+
+                <EditText
+                    android:id="@+id/Susername"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="User Name"
+                    android:inputType="textPersonName"
+                    android:paddingTop="20dp" />
+
+                <EditText
+                    android:id="@+id/Spassword"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="Password"
+
+                    android:inputType="textPassword"
+                    android:paddingTop="20dp" />
+
+                <EditText
+                    android:id="@+id/Srepassword"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="Retype Password"
+                    android:inputType="textPassword"
+                    android:paddingTop="20dp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/checkBox3"
+                        android:layout_width="162dp"
+                        android:layout_height="49dp"
+                        android:text="Accept terms and condition" />
+
+                    <Button
+                        android:id="@+id/bTemrsConditon"
+                        android:layout_width="wrap_content"
+                        android:layout_height="45dp"
+                        android:background="@android:color/transparent"
+                        android:onClick="onClickButton"
+                        android:paddingLeft="30dp"
+                        android:text="Read Terms and Conditions" />
+
+                </LinearLayout>
+
+                <Button
+                    android:id="@+id/bSingupNext"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:paddingTop="20dp"
+                    android:text="Next" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

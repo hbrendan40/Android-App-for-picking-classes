@@ -1,0 +1,7 @@
+#Sat May 13 17:30:03 PDT 2017
+base.0=F\:\\Project\\ScamProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1f987e5b36a2f0fdcd9e4f617c5bc6e5d8bf6bb8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\Project\\ScamProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_225fce5f49852e9d350f5934c5e4edc38fcff8a2\\classes.dex
+base.1=F\:\\Project\\ScamProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_225fce5f49852e9d350f5934c5e4edc38fcff8a2
+file.0=F\:\\Project\\ScamProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1f987e5b36a2f0fdcd9e4f617c5bc6e5d8bf6bb8\\classes.dex

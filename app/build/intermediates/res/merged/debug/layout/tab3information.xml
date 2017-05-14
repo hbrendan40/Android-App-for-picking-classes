@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:paddingTop="10000dp"
+            android:padding="20dp">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="@android:color/background_light">
+
+            </android.support.v7.widget.Toolbar>
+
+            <android.support.design.widget.TabLayout
+                android:id="@+id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1.1. Am I eligible to use the Scam Services?"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Only people ages 13 or older may create an account or use the Riot Services. If you’re at least 13 years old, but not yet legally considered an “adult” in the country you live in, you must ask one of your parents (or other legal guardians) to read this Agreement and accept it on your behalf. You may not create or use an account on behalf of a legal entity or for a commercial purpose." />
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1.2. I’m eligible, yay! How can I create an account and play? (Follow these steps….)"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Only people ages 13 or older may create an account or use the Riot Services. If you’re at least 13 years old, but not yet legally considered an “adult” in the country you live in, you must ask one of your parents (or other legal guardians) to read this Agreement and accept it on your behalf. You may not create or use an account on behalf of a legal entity or for a commercial purpose." />
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1.3. Do I need to provide my real name and stuff? (Yes. Please don’t try to pull any kind of “Definitely Not Blitzcrank” or “Definitely Not Udyr” funny business.)"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Only people ages 13 or older may create an account or use the Riot Services. If you’re at least 13 years old, but not yet legally considered an “adult” in the country you live in, you must ask one of your parents (or other legal guardians) to read this Agreement and accept it on your behalf. You may not create or use an account on behalf of a legal entity or for a commercial purpose." />
+
+            <TextView
+                android:id="@+id/textView17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1.4. Can I share or sell my account or login credentials? (No.)"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Only people ages 13 or older may create an account or use the Riot Services. If you’re at least 13 years old, but not yet legally considered an “adult” in the country you live in, you must ask one of your parents (or other legal guardians) to read this Agreement and accept it on your behalf. You may not create or use an account on behalf of a legal entity or for a commercial purpose." />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

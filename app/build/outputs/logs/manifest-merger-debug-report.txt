@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Green Face\.android\build-cache\9060309817a6def66acb0f6ce815db36512d8751\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Green Face\.android\build-cache\c293cd3d287f8416ef7e24d85361f7346832df81\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Green Face\.android\build-cache\58c1776845e1d4027e46b1a6a44a7cf97de77e1b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Green Face\.android\build-cache\694b86e18526f62e64404c1ab8c8dc30aeb76850\output\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Green Face\.android\build-cache\0e832b07cc53a62c505008223f648bb5efb07383\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Green Face\.android\build-cache\9a4151a556810b8c110af44770e803e956e12dc9\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Green Face\.android\build-cache\ca4a387235868971a84eaa1c3545f5e45bb15ab1\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Green Face\.android\build-cache\bdd66b957c7b90d31748128a27dcf7d29471486f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Green Face\.android\build-cache\7e70e9bff0878a5adb524bd90d0a7d3aed9dcc5e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Green Face\.android\build-cache\cddc1df3852b0b516487186ae6cffdda751ef960\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Green Face\.android\build-cache\54e316363049ca52e0754cc4a452303a92817b84\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Green Face\.android\build-cache\db1356b39acc393d2bf696c71756a3c5f1d9d247\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Green Face\.android\build-cache\21c8716c416bdf4c150f9504aa7db6f82d3c9720\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Green Face\.android\build-cache\38a80ed95ddef90168849f4f19c2c02ddfcce610\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Green Face\.android\build-cache\c293cd3d287f8416ef7e24d85361f7346832df81\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:5:15-41
+		INJECTED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:8:5-42:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Green Face\.android\build-cache\9060309817a6def66acb0f6ce815db36512d8751\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Green Face\.android\build-cache\c293cd3d287f8416ef7e24d85361f7346832df81\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Green Face\.android\build-cache\694b86e18526f62e64404c1ab8c8dc30aeb76850\output\AndroidManifest.xml:26:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Green Face\.android\build-cache\0e832b07cc53a62c505008223f648bb5efb07383\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Green Face\.android\build-cache\9a4151a556810b8c110af44770e803e956e12dc9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Green Face\.android\build-cache\ca4a387235868971a84eaa1c3545f5e45bb15ab1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Green Face\.android\build-cache\bdd66b957c7b90d31748128a27dcf7d29471486f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Green Face\.android\build-cache\7e70e9bff0878a5adb524bd90d0a7d3aed9dcc5e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Green Face\.android\build-cache\cddc1df3852b0b516487186ae6cffdda751ef960\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Green Face\.android\build-cache\54e316363049ca52e0754cc4a452303a92817b84\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Green Face\.android\build-cache\db1356b39acc393d2bf696c71756a3c5f1d9d247\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Green Face\.android\build-cache\21c8716c416bdf4c150f9504aa7db6f82d3c9720\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Green Face\.android\build-cache\38a80ed95ddef90168849f4f19c2c02ddfcce610\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:11:9-36
+	android:supportsRtl
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.greenface.scamproject.Login
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:15:19-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.greenface.scamproject.Class_Display
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:22:19-48
+activity#com.greenface.scamproject.Signup
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:23:9-43
+	android:name
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:23:19-41
+activity#com.greenface.scamproject.TakenClass
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:24:9-25:20
+	android:name
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:24:19-45
+activity#com.greenface.scamproject.ForgotPass
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:26:9-47
+	android:name
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:26:19-45
+activity#com.greenface.scamproject.Profile
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:27:9-44
+	android:name
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:27:19-42
+activity#com.greenface.scamproject.TermsConditon
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:28:9-30:58
+	android:label
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:28:19-48
+activity#com.greenface.scamproject.Friend
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:31:9-43
+	android:name
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:31:19-41
+activity#com.greenface.scamproject.Message
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:32:9-44
+	android:name
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:32:19-42
+activity#com.greenface.scamproject.More
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:33:9-41
+	android:name
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:33:19-39
+activity#com.greenface.scamproject.Online
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:34:9-43
+	android:name
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:34:19-41
+activity#com.greenface.scamproject.Search
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:35:9-43
+	android:name
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:35:19-41
+activity#com.greenface.scamproject.BlueFace
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:36:9-45
+	android:name
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:36:19-43
+activity#com.greenface.scamproject.Profesor
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:37:9-45
+	android:name
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:37:19-43
+activity#com.greenface.scamproject.Prolist
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:38:9-43
+	android:name
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:38:19-41
+activity#com.greenface.scamproject.Display
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:39:9-44
+	android:name
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:39:19-42
+activity#com.greenface.scamproject.New_pass
+ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:40:9-45
+	android:name
+		ADDED from F:\Project\ScamProject\app\src\main\AndroidManifest.xml:40:19-43
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Green Face\.android\build-cache\c293cd3d287f8416ef7e24d85361f7346832df81\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Green Face\.android\build-cache\58c1776845e1d4027e46b1a6a44a7cf97de77e1b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Green Face\.android\build-cache\694b86e18526f62e64404c1ab8c8dc30aeb76850\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Green Face\.android\build-cache\9a4151a556810b8c110af44770e803e956e12dc9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Green Face\.android\build-cache\ca4a387235868971a84eaa1c3545f5e45bb15ab1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Green Face\.android\build-cache\bdd66b957c7b90d31748128a27dcf7d29471486f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Green Face\.android\build-cache\7e70e9bff0878a5adb524bd90d0a7d3aed9dcc5e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Green Face\.android\build-cache\cddc1df3852b0b516487186ae6cffdda751ef960\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Green Face\.android\build-cache\54e316363049ca52e0754cc4a452303a92817b84\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Green Face\.android\build-cache\db1356b39acc393d2bf696c71756a3c5f1d9d247\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Green Face\.android\build-cache\21c8716c416bdf4c150f9504aa7db6f82d3c9720\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Green Face\.android\build-cache\38a80ed95ddef90168849f4f19c2c02ddfcce610\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Green Face\.android\build-cache\c293cd3d287f8416ef7e24d85361f7346832df81\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Green Face\.android\build-cache\c293cd3d287f8416ef7e24d85361f7346832df81\output\AndroidManifest.xml:26:9-47

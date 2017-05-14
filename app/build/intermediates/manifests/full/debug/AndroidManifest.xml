@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.greenface.scamproject"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="ScamProject"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.greenface.scamproject.Login" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.greenface.scamproject.Class_Display" />
+        <activity android:name="com.greenface.scamproject.Signup" />
+        <activity android:name="com.greenface.scamproject.TakenClass" >
+        </activity>
+        <activity android:name="com.greenface.scamproject.ForgotPass" />
+        <activity android:name="com.greenface.scamproject.Profile" />
+        <activity
+            android:name="com.greenface.scamproject.TermsConditon"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.greenface.scamproject.Friend" />
+        <activity android:name="com.greenface.scamproject.Message" />
+        <activity android:name="com.greenface.scamproject.More" />
+        <activity android:name="com.greenface.scamproject.Online" />
+        <activity android:name="com.greenface.scamproject.Search" />
+        <activity android:name="com.greenface.scamproject.BlueFace" />
+        <activity android:name="com.greenface.scamproject.Profesor" />
+        <activity android:name="com.greenface.scamproject.Prolist" />
+        <activity android:name="com.greenface.scamproject.Display" />
+        <activity android:name="com.greenface.scamproject.New_pass" />
+    </application>
+
+</manifest>
